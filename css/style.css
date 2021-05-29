@@ -1,0 +1,180 @@
+body{
+    margin : 0px;
+}
+
+.TopContainer{
+    background-color: #faf3f3;
+    padding:30px 0px 0px;
+    text-align: center;
+  
+       
+}
+
+.BotContainer{
+    background-color: #66BFBF;
+    text-align: center;
+    padding:40px;
+}
+
+.name{
+    color: #66BFBF;
+    font-size:50px;
+}
+
+hr{
+    border-width: 10px 0px 0px ;
+    border-style: dotted;
+    border-color: #a3a7a7;
+    width:7%;
+}
+
+.MidContainer{
+    text-align: center;
+    padding: 20px 0px 0px;
+}
+
+.cloud1{
+    position: relative;
+    left: 10.625rem;
+}
+
+.cloud2{
+    position: relative;
+    left: 5.875rem;
+    bottom:17.875rem;
+}
+
+.mountain{
+    position: relative;
+    top:0.25rem;
+}
+
+
+.name{
+    font-family: 'Arizonia', cursive;
+   
+    
+}
+
+.Description{
+    font-family: 'Merriweather', serif;
+    color: #66BFBF;
+    
+    
+}
+
+
+.para{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+.para1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color:#ffffff;
+    margin-top: 40px;
+}
+
+.myimage{
+    width: 10%;
+}
+
+.code1{
+    height: 12.5rem;
+    width:12.5rem;
+    float: left;
+    margin-right: 20px;
+}
+
+.code2{
+    height: 12.5rem;
+    width:12.5rem;
+    float:right;
+    margin-left: 20px;
+    padding-right: 110px;
+   
+}
+
+.code3{
+    height: 12.5rem;
+    width:12.5rem;
+    float:left;
+    margin-right: 20px;
+}
+
+
+.Skills{
+    width: 50%;
+    margin: auto;
+}
+
+.Skills-Row1{
+    text-align: left;
+    padding:20px;
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+}
+
+.Skills-Row2{
+    text-align: left;
+    padding:20px;
+    margin-bottom: 20px;
+}
+
+.Skills-Row3{
+    text-align: left;
+    padding:20px;
+    margin-bottom: 40px;
+}
+
+.ContactMe{
+    margin-top: 40px;
+}
+
+.button{
+    margin: 50px auto 100px;
+}
+
+.link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-decoration: none;
+    margin: 0px 20px 0px;
+    font-size: 100%;
+    color: #005183;
+
+}
+
+a:hover{
+    color:#ffffff;
+}
+
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #03a1fc);
+  background-image: -moz-linear-gradient(top, #3498db, #03a1fc);
+  background-image: -ms-linear-gradient(top, #3498db, #03a1fc);
+  background-image: -o-linear-gradient(top, #3498db, #03a1fc);
+  background-image: linear-gradient(to bottom, #3498db, #03a1fc);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  
+}
+
+.btn:hover {
+  background: #6454f2;
+  background-image: -webkit-linear-gradient(top, #6454f2, #4734d9);
+  background-image: -moz-linear-gradient(top, #6454f2, #4734d9);
+  background-image: -ms-linear-gradient(top, #6454f2, #4734d9);
+  background-image: -o-linear-gradient(top, #6454f2, #4734d9);
+  background-image: linear-gradient(to bottom, #6454f2, #4734d9);
+  text-decoration: none;
+}
